@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/<LINKEDIN-ID>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aritraduttauttarpara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/aricode25"><img src="https://img.shields.io/badge/LeetCode-Guardian_2155-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/aricode2005"><img src="https://img.shields.io/badge/Codeforces-Specialist_1620-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/aricode2005"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/aricode25"><img src="https://img.shields.io/badge/CodeChef-3★_1656-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
@@ -89,8 +89,8 @@ A production-style MCP backend that exposes **15 financial tools** (CRUD, budget
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aricode2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aricode2005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -107,4 +107,4 @@ A production-style MCP backend that exposes **15 financial tools** (CRUD, budget
 
 I'm looking for **AI / backend / full-stack internships**. If you're building something in fintech, AI agents or data infrastructure, I'd like to hear about it.
 
-📧 [aritraduttauttarpara@gmail.com](mailto:aritraduttauttarpara@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/<LINKEDIN-ID>)
+📧 [aritraduttauttarpara@gmail.com](mailto:aritraduttauttarpara@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/aritra-dutta-aa30872b7/)
